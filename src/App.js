@@ -1,4 +1,3 @@
-
 import logo from './gator.gif';
 import './App.css';
 
