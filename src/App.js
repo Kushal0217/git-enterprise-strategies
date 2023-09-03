@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+
+import logo from './gator.gif';
 import './App.css';
 
 function App() {
